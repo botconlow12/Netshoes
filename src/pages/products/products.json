@@ -1,0 +1,196 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "stock": 0,
+      "title": "Copo Térmico De Cerveja Stanley Matte Black 473ML",
+      "price": "135,00",
+      "discount": "27,00",
+      "bannerImg" : "/prod0/prod1.webp"
+    },
+    {
+      "id": 2,
+      "stock": 4,
+      "productPage": "/products/2",
+      "title": "Camisa Flamengo II 24/25 s/n° Torcedor Adidas Masculina - Branco",
+      "rate": 72,
+      "price": "349,99",
+      "discount": "69,99",
+      "parcelamento": "9,05",
+      "desc": "Apoie o Mengão nos desafios da nova temporada com a Camisa Flamengo II 24/25 s/n° Torcedor Adidas Masculina! Utilizada como manto oficial para os jogos fora de casa, essa camisa do Flamengo masculina possui inspiração na torcida que canta, grita e torce. Os detalhes ondulados na parte frontal são inspirados no canto da torcida que empurra o time em direção à vitória. O manto possui gola em V, monograma “CRF” em preto no lado esquerdo do peito e recortes em vermelho na barra e nas mangas. O tecido tecnológico Aeoready afasta o suor da pele e amplia a sensação de conforto. Compre já essa camisa do Flamengo 24/25!",
+      "href": "https://pay.finalizarpagamentoo.online/nQ7kZ7vKeK430eJ",
+      "bannerImg" : "/prod1/prod1.webp",
+      "images": [
+        "/prod1/prod1.webp",
+        "/prod1/prod2.webp",
+        "/prod1/prod3.webp",
+        "/prod1/prod4.webp"
+      ]
+    },
+    {
+      "id": 3,
+      "stock": 4,
+      "productPage": "/products/3",
+      "title": "Camisa Nike Corinthians I 2024/25 Torcedor Pro Masculina - Branco",
+      "rate": 96,
+      "price": "349,99",
+      "discount": "69,99",
+      "parcelamento": "5,72",
+      "desc": "Faça parte da batalha contra o racismo com a Camisa Corinthians I 24/25 s/n° Torcedor Nike Masculina! Pioneiro contra o preconceito racial, o Corinthians e o Observatório da Discriminação Racial no Futebol entram em campo na luta antirracista, promovendo o novo manto para a temporada, que é mais do que uma peça, e sim, um símbolo da busca pela igualdade e combate a segregação. Com emblema do lado esquerdo do peito, essa camisa do Corinthians possui degradê do branco ao preto das mangas até a barra. O interior da gola possui selo com o escrito antirracista “Tamo Junto e Misturado”. O tecido ventilado com tecnologia Nike Dri-FIT absorve o suor da sua pele e proporciona uma evaporação mais rápida para manter seu corpo seco e confortável. O design apresenta detalhes similares aos que os craques usam.",
+      "href": "https://pay.finalizarpagamentoo.online/RmA83E08v8wgPVp",
+      "bannerImg" : "/prod2/prod1.webp",
+      "images": [
+        "/prod2/prod1.webp",
+        "/prod2/prod2.webp",
+        "/prod2/prod3.webp",
+        "/prod2/prod4.webp",
+        "/prod2/prod5.webp",
+        "/prod2/prod6.webp"
+      ]
+    },
+    {
+      "id": 4,
+      "stock": 4,
+      "productPage": "/products/4",
+      "title": "Camisa São Paulo II 24/25 New Balance Masculina",
+      "rate": 54,
+      "price": "449,99",
+      "discount": "89,99",
+      "parcelamento": "9,99",
+      "desc": "Tão pesada quanto sua própria história. O Tricolor celebra os anos de lutas, suor e conquistas com a Camisa São Paulo II 24/25 s/n° Jogador New Balance Masculina! O novo manto é mais do que uma peça, e sim um tributo à toda glória do clube. Camisa pesada que representa o único tricampeão mundial brasileiro, essa Camisa São Paulo New Balance Masculina possui listras verticais em vermelho, preto e branco. Além disso, dispõe de gola V, listras nas mangas e tecido tecnológico que amplia a sensação de leveza e conforto. O escrito “A História Começa Aqui” aparece na parte de trás e simboliza um novo capítulo na história do Tricolor. Faça parte da história, homenageie os momentos gloriosos e o futuro promissor com essa Camisa do São Paulo. Peça já!",
+      "href": "https://pay.finalizarpagamentoo.online/rn4RgQR171l3wBV",
+      "bannerImg" : "/prod3/prod1.webp",
+      "images": [
+        "/prod3/prod1.webp",
+        "/prod3/prod2.webp",
+        "/prod3/prod3.webp",
+        "/prod3/prod4.webp",
+        "/prod3/prod5.webp",
+        "/prod3/prod6.webp"
+      ]
+    },
+    {
+      "id": 5,
+      "stock": 4,
+      "productPage": "/products/5",
+      "title": "Camisa Polo Lacoste Original Slim Fit - Preto",
+      "rate": 84,
+      "price": "599,00",
+      "discount": "119,80",
+      "parcelamento": "6,12",
+      "desc": "Com dois botões. Em petit piquet de algodão de duas camadas. Slim fit. Punho e gola canelados. Crocodilo verde bordado no peito.",
+      "href": "https://pay.finalizarpagamentoo.online/eApQgz7PXM23Eb7",
+      "bannerImg" : "/prod4/prod1.webp",
+      "images": [
+        "/prod4/prod1.webp",
+        "/prod4/prod2.webp",
+        "/prod4/prod3.webp",
+        "/prod4/prod4.webp"
+      ]
+    },
+    {
+      "id": 6,
+      "stock": 4,
+      "productPage": "/products/6",
+      "title": "Boné Tommy Hilfiger Big Flag Cap - Marinho",
+      "rate": 93,
+      "price": "229,00",
+      "discount": "45,80",
+      "parcelamento": "5,32",
+      "desc": "DETALHES DO PRODUTO BONÉ TOMMY HILFIGER BIG FLAG VERMELHO Recorra aos clássicos com este despretencioso boné, feito de algodão puro para trazer leveza para os dias ensolarados.Destaques• Algodão puro• Fecho ajustável com logo Tommy Hilfiger• Botão e ilhós no topo• Bandeira Tommy Hilfiger bordada na parte frontalComposição• 100% Algodão Medidas: 16x46cm (AxC). Ocasião de uso Casual País de origem Brasil",
+      "href": "https://pay.finalizarpagamentoo.online/nWrxGWDyV7yg654",
+      "bannerImg" : "/prod5/prod1.webp",
+      "images": [
+        "/prod5/prod1.webp",
+        "/prod5/prod2.webp",
+        "/prod5/prod3.webp"
+      ]
+    },
+    {
+      "id": 7,
+      "stock": 4,
+      "productPage": "/products/7",
+      "title": "Tênis Nike Revolution 7 Masculino - Preto+Branco",
+      "rate": 112,
+      "price": "399,99",
+      "discount": "79,99",
+      "parcelamento": "9,32",
+      "desc": "Carregamos o Revolution 7 com o tipo de amortecimento e suporte macio que pode mudar o seu mundo de corrida. Elegante como sempre, confortvel quando a borracha encontra a estrada e performtico para o ritmo desejado, uma evoluo de um favorito dos fs que oferece uma conduo macia e suave.Passada ConfortvelA entressola de espuma proporciona uma passada suave e macia. Tambm h um pouco mais de espao no antep em comparao com o 6, para que os dedos dos ps no fiquem tensos ou comprimidos.Toque MacioAdicionamos relevos no calcanhar que ficam visveis na parte exterior do calado. Eles so macios ao toque e ajudam a aumentar o conforto no seu tendo de Aquiles. Os pontos de toque na lngua criam uma sensao natural ao decolar.Aderncia TranquilizadoraO solado apresenta um padro de trao generativo que combina com salincias de borracha para ajudar a oferecer aderncia ao subir ou descer ladeiras.",
+      "href": "https://pay.finalizarpagamentoo.online/YEwR3AbjeRPZdKy",
+      "bannerImg" : "/prod6/prod1.webp",
+      "images": [
+        "/prod6/prod1.webp",
+        "/prod6/prod2.webp",
+        "/prod6/prod3.webp",
+        "/prod6/prod4.webp",
+        "/prod6/prod5.webp",
+        "/prod6/prod6.webp",
+        "/prod6/prod7.webp"
+      ]
+    },
+    {
+      "id": 8,
+      "stock": 4,
+      "productPage": "/products/8",
+      "title": "Tênis Adidas Runfalcon 2.0 Masculino - Preto+Branco",
+      "rate": 46,
+      "price": "399,99",
+      "discount": "119,80",
+      "parcelamento": "79,99",
+      "desc": "Na esteira ou pelas ruas, domine a corrida com o novo Tênis Masculino da Adidas. O Runfalcon 2.0 chega com um cabedal com tripla camada de mesh para ainda mais respirabilidade, calcanhar acolchoado para máximo conforto e suporte, além de uma entressola em EVA para amortecimento leve e passada mais suave. O solado emborrachado garante aderência e tração em diferentes tipos de rua. Vista um short de corrida e regata de academia para mood esportivo completo. Das caminhadas matinais aos tiros de 500 metros, conte com a Adidas para fazer seu treino render! *Forma para pés finos, recomendamos comprar um número acima do que costuma usar*",
+      "href": "https://pay.finalizarpagamentoo.online/NDr8gm5M9dqgBmj",
+      "bannerImg" : "/prod7/prod1.webp",
+      "images": [
+        "/prod7/prod1.webp",
+        "/prod7/prod2.webp",
+        "/prod7/prod3.webp",
+        "/prod7/prod4.webp",
+        "/prod7/prod5.webp",
+        "/prod7/prod6.webp",
+        "/prod7/prod7.webp"
+      ]
+    },
+    {
+      "id": 9,
+      "stock": 4,
+      "productPage": "/products/9",
+      "title": "COPO QUENCHER CREAM STANLEY | 1,18L",
+      "rate": 46,
+      "price": "359,99",
+      "discount": "71,80",
+      "parcelamento": "79,99",
+      "desc": "Cada jornada é única e resultado das suas próprias escolhas, por isso entre os desafios e conquistas do dia a dia não dá para esquecer de cuidar daquilo que é o mais importante: você. Manter a saúde do corpo e da mente é fundamental para não perder o ritmo e o Copo Quencher Stanley chega como a escolha perfeita para garantir o bem-estar da sua melhor versão.",
+      "href": "https://pay.finalizarpagamentoo.online/NDr8gm5M9dqgBmj",
+      "bannerImg" : "/prod8/prod1.webp",
+      "images": [
+        "/prod8/prod1.webp",
+        "/prod8/prod2.webp",
+        "/prod8/prod3.webp",
+        "/prod8/prod4.webp",
+        "/prod8/prod5.webp",
+        "/prod8/prod6.webp"
+      ]
+    },
+    {
+      "id": 10,
+      "stock": 4,
+      "productPage": "/products/10",
+      "title": "Cadeira Gamer Pelegrin Reclinável PEL-3018 Preta e Cinza",
+      "rate": 46,
+      "price": "850,00",
+      "discount": "170,00",
+      "parcelamento": "79,99",
+      "desc": "A Cadeira Gamer Pelegrin Reclinável PEL-3018 Preta e Vermelha com o design inspirado em carros esportivos, foi desenvolvida especialmente para os apaixonados em jogos que não abrem mão do conforto e ergonomia durante longas horas de uso.",
+      "href": "https://pay.finalizarpagamentoo.online/NDr8gm5M9dqgBmj",
+      "bannerImg" : "/prod9/prod1.webp",
+      "images": [
+        "/prod9/prod1.webp",
+        "/prod9/prod2.webp",
+        "/prod9/prod3.webp",
+        "/prod9/prod4.webp",
+        "/prod9/prod5.webp",
+        "/prod9/prod6.webp"
+      ]
+    }
+  ]
+}
