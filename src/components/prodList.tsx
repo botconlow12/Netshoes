@@ -22,7 +22,7 @@ export default function ProdList() {
         return (
           <Link
             key={product.id} // Use o id do produto como chave
-            href={product.productPage || '/caixas-brancas'} // Valor padrão caso product.href seja undefined
+            href={product.productPage || '/descontos-exclusivos'} // Valor padrão caso product.href seja undefined
             className="w-full h-[320px] flex flex-col items-center gap-2"
           >
             <div
