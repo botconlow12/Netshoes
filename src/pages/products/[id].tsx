@@ -254,7 +254,7 @@ export default function Sauvage() {
           <div className="w-full h-[1px] bg-[#e3e3e3]" />
           <a
             href={productData.href}
-            className="w-full flex justify-center items-center gap-3 p-5 bg-[#64c45b] text-white rounded-lg shadow-xl"
+            className="w-full flex justify-center items-center gap-3 p-5 bg-[#513976] text-white rounded-lg shadow-xl"
           >
             <h1 className="text-xl font-bold">COMPRAR AGORA!</h1>
             <Truck size={32} weight="bold" color="#ededed" />
