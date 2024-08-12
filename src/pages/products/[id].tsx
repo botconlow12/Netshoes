@@ -75,6 +75,36 @@ export default function Sauvage() {
     adaptiveHeight: true,
   }
 
+  const renderOpcoes = () => {
+    if (productData.tipo === 'numero') {
+      return (
+        <select className="w-[60px] p-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-[#6900cc]">
+          {productData.opcoes.map((numero, index) => (
+            <option key={index} value={numero} className="p-2">
+              {numero}
+            </option>
+          ))}
+        </select>
+      )
+    } else if (productData.tipo === 'tamanho') {
+      return (
+        <select className="w-[60px] p-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-[#6900cc]">
+          {productData.opcoes.map((tamanho, index) => (
+            <option key={index} value={tamanho} className="p-2">
+              {tamanho}
+            </option>
+          ))}
+        </select>
+      )
+    } else if (productData.tipo === 'unico') {
+      return (
+        <p className="border-[1.6px] border-[#6900cc] p-2 rounded-xl text-gray-700 bg-slate-100 font-semibold">
+          {productData.opcoes[0]}
+        </p>
+      )
+    }
+  }
+
   return (
     <>
       <Head>
@@ -199,6 +229,9 @@ export default function Sauvage() {
               </div>
               <p>5.0 ({productData.rate}) Avaliações</p>
             </div>
+            <h1 className="font-bold">Escolha um Tamanho</h1>
+            {renderOpcoes()}
+
             <h1 className="text-[#282828] text-lg font-bold">
               De: <s>R$ {productData.price}</s>
             </h1>
@@ -208,12 +241,6 @@ export default function Sauvage() {
               </h1>
               <p className="text-[13px] text-white font-bold bg-[#ff0000] p-2 rounded-md">
                 -80%
-              </p>
-            </div>
-            <div className="flex items-center gap-2">
-              <CreditCard size={18} />
-              <p className="text-[15px]">
-                em até 12x de <b>R$ {productData.parcelamento}</b>
               </p>
             </div>
             <div

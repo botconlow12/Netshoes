@@ -2,10 +2,21 @@ import Image from 'next/image'
 import Link from 'next/link'
 import productsData from '../pages/products/products.json'
 
-export default function ProdList() {
+type Gender = 'masculino' | 'feminino' | 'todos'
+
+interface ProdListProps {
+  selectedGender: Gender
+}
+
+export default function ProdList({ selectedGender }: ProdListProps) {
+  // Filtrar os produtos com base no sexo selecionado
+  const filteredProducts = productsData.products.filter(
+    (product) => selectedGender === 'todos' || product.sexo === selectedGender,
+  )
+
   return (
     <div className="w-full grid grid-cols-2 gap-4">
-      {productsData.products.map((product) => {
+      {filteredProducts.map((product) => {
         // Define a cor de fundo e o texto com base na quantidade
         const statusColor =
           product.stock === 0
@@ -21,35 +32,35 @@ export default function ProdList() {
 
         return (
           <Link
-            key={product.id} // Use o id do produto como chave
-            href={product.productPage || '/descontos-exclusivos'} // Valor padrão caso product.href seja undefined
+            key={product.id}
+            href={product.productPage || '/descontos-exclusivos'}
             className="w-full h-[320px] flex flex-col items-center gap-2"
           >
             <div
-              className="h-full flex flex-col justify-center gap-2 p-3 rounded-xl bg-white text-[#333]" // Fundo branco para o componente
+              className="h-full flex flex-col justify-center gap-2 p-3 rounded-xl bg-white text-[#333]"
               style={{ boxShadow: '0 4px 8px rgba(0,0,0,0.1)' }}
             >
               <Image
                 alt={product.title}
-                src={product.bannerImg} // Corrigido para usar bannerImg
+                src={product.bannerImg}
                 quality={100}
                 className="w-full h-auto rounded-md"
-                width={640} // Largura para a imagem
-                height={640} // Altura para a imagem
+                width={640}
+                height={640}
               />
               <h1 className="text-xs text-center font-bold text-[#333]">
                 {product.title}
               </h1>
               <p
-                className={`text-xs py-[3px] px-[8px] rounded-xl ${statusColor}`} // Ajuste de cor para o texto de disponibilidade
+                className={`text-xs py-[3px] px-[8px] rounded-xl ${statusColor}`}
               >
                 {availabilityText}
               </p>
               <div className="flex justify-between items-center">
-                <p className="w-full text-left text-sm text-[#333] line-through">
+                <p className="text-sm text-[#333] line-through">
                   R${product.price}
                 </p>
-                <h1 className="w-full text-left text-lg text-[#333] font-bold">
+                <h1 className="text-lg text-[#333] font-bold">
                   R${product.discount}
                 </h1>
               </div>
