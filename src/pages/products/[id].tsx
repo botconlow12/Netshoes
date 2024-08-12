@@ -207,7 +207,7 @@ export default function Sauvage() {
                   key={index}
                   src={image}
                   alt={`Imagem ${index + 1}`}
-                  className="max-w-full h-auto"
+                  className="max-w-full h-auto rounded-xl"
                 />
               ))}
             </Slider>
