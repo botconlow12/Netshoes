@@ -82,11 +82,11 @@ const Quiz = () => {
 
   return (
     <div className="w-[95%] flex flex-col justify-center items-center text-center py-8 px-5 bg-white rounded-lg shadow-lg relative">
-      <h1 className="text-3xl font-bold text-[#30006b] mb-6 underline">
-        Desafio Aniversário Netshoes!
-      </h1>
       {!quizCompleted && (
         <>
+          <h1 className="text-3xl font-bold text-[#30006b] mb-6 underline">
+            Desafio Aniversário Netshoes!
+          </h1>
           <Question
             question={questions[currentQuestion].question}
             options={questions[currentQuestion].options}
@@ -118,7 +118,9 @@ const Quiz = () => {
       )}
       {quizCompleted && (
         <div className="w-full flex flex-col gap-3 text-center">
-          <h2 className="text-3xl font-bold text-[#30006b]">PARABÉNS!</h2>
+          <h2 className="text-3xl font-bold underline text-[#30006b]">
+            PARABÉNS!
+          </h2>
           <p className="text-lg text-black">
             Você <u>completou o desafio</u> com sucesso e ganhou{' '}
             <b>acesso a descontos exclusivos!</b>
