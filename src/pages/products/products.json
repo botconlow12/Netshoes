@@ -3,6 +3,7 @@
     {
       "id": 1,
       "stock": 0,
+      "sexo": "masculino",
       "title": "Copo Térmico De Cerveja Stanley Matte Black 473ML",
       "price": "135,00",
       "discount": "27,00",
