@@ -34,7 +34,7 @@
     },
     {
       "id": 3,
-      "stock": 4,
+      "stock": 6,
       "productPage": "/products/3",
       "sexo": "masculino",
       "title": "Camisa Nike Corinthians I 2024/25 Torcedor Pro Masculina - Branco",
@@ -57,7 +57,7 @@
     },
     {
       "id": 4,
-      "stock": 4,
+      "stock": 3,
       "productPage": "/products/4",
       "sexo": "masculino",
       "title": "Camisa São Paulo II 24/25 New Balance Masculina",
@@ -80,7 +80,7 @@
     },
     {
       "id": 5,
-      "stock": 4,
+      "stock": 12,
       "productPage": "/products/5",
       "sexo": "masculino",
       "title": "Camisa Polo Lacoste Original Slim Fit - Preto",
@@ -101,7 +101,7 @@
     },
     {
       "id": 6,
-      "stock": 4,
+      "stock": 15,
       "productPage": "/products/6",
       "sexo": "masculino",
       "title": "Boné Tommy Hilfiger Big Flag Cap - Marinho",
@@ -121,7 +121,7 @@
     },
     {
       "id": 7,
-      "stock": 4,
+      "stock": 3,
       "productPage": "/products/7",
       "sexo": "masculino",
       "title": "Tênis Nike Revolution 7 Masculino - Preto+Branco",
@@ -145,7 +145,7 @@
     },
     {
       "id": 8,
-      "stock": 4,
+      "stock": 7,
       "productPage": "/products/8",
       "sexo": "masculino",
       "title": "Tênis Adidas Runfalcon 2.0 Masculino - Preto+Branco",
@@ -169,7 +169,7 @@
     },
     {
       "id": 9,
-      "stock": 4,
+      "stock": 2,
       "productPage": "/products/9",
       "sexo": "feminino",
       "title": "COPO QUENCHER CREAM STANLEY | 1,18L",
@@ -192,7 +192,7 @@
     },
     {
       "id": 10,
-      "stock": 4,
+      "stock": 10,
       "productPage": "/products/10",
       "sexo": "masculino",
       "title": "Cadeira Gamer Pelegrin Reclinável PEL-3018 Preta e Cinza",
@@ -215,7 +215,7 @@
     },
     {
       "id": 11,
-      "stock": 4,
+      "stock": 6,
       "productPage": "/products/11",
       "sexo": "feminino",
       "title": "Tênis Olympikus Venus 2 Feminino - Marinho",
@@ -236,7 +236,7 @@
     },
     {
       "id": 12,
-      "stock": 4,
+      "stock": 9,
       "productPage": "/products/12",
       "sexo": "feminino",
       "title": "Tênis Olympikus Venus 2 Feminino - Marinho",
@@ -257,7 +257,7 @@
     },
     {
       "id": 13,
-      "stock": 4,
+      "stock": 3,
       "productPage": "/products/13",
       "sexo": "feminino",
       "title": "Tênis Puma Carina Lux Bdp Feminino - Branco+prata",
@@ -298,7 +298,7 @@
    
     {
       "id": 15,
-      "stock": 4,
+      "stock": 14,
       "productPage": "/products/15",
       "sexo": "feminino",
       "title": "Camisa Nike Corinthians I 2023/24 Torcedora Pro Feminina - Branco",
@@ -321,7 +321,7 @@
     },
     {
       "id": 16,
-      "stock": 4,
+      "stock": 8,
       "productPage": "/products/16",
       "sexo": "feminino",
       "title": "Jaqueta Puffer Hering Lisa Feminina - Preto",
@@ -342,7 +342,7 @@
     },
     {
       "id": 17,
-      "stock": 4,
+      "stock": 5,
       "productPage": "/products/17",
       "sexo": "feminino",
       "title": "Kit 3 Blusas PS Feminina Comprida Fitness Tapa Bumbum Academia - Preto",
