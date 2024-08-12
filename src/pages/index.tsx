@@ -27,11 +27,11 @@ export default function Home() {
         <Header />
         <div className="w-[95%] flex flex-col justify-center items-center text-center p-8 bg-white rounded-lg shadow-xl">
           <h1 className="text-3xl font-bold text-[#30006b] mb-5">
-            Bem-vindo ao Desafio da Netshoes!
+            Desafio Aniversário Netshoes!
           </h1>
           <p className="text-lg text-black mb-4">
             Participe do nosso <b>emocionante desafio</b> sobre <b>esportes</b>{' '}
-            e ganhe acesso aos nossos <b>produtos exclusivos</b>!
+            e ganhe acesso a <b>descontos exclusivos</b>!
           </p>
           <p className="text-lg text-black mb-4">
             <u>Ao completar o desafio com sucesso,</u> você terá acesso a{' '}
@@ -47,7 +47,7 @@ export default function Home() {
             href="/quiz"
             className="w-full px-6 py-3 bg-[#30006b] text-xl text-white text-center font-semibold rounded hover:bg-[#200048] transition-colors"
           >
-            COMEÇAR QUIZ!
+            COMEÇAR DESAFIO!
           </a>
         </div>
       </main>
