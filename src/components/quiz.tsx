@@ -24,9 +24,9 @@ const questions = [
   {
     question:
       'Quantas medalhas de ouro o Brasil ganhou até agora nas Olimpíadas de 2024?',
-    options: ['2', '5', '7'],
-    answer: '2',
-    hint: 'A resposta é a soma de 1+1',
+    options: ['2', '3', '5'],
+    answer: '3',
+    hint: 'A resposta é a soma de 1+2',
   },
   {
     question: 'Qual esporte estreou nas Olimpíadas de 2024?',
