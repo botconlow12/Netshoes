@@ -25,18 +25,21 @@ export default function Home() {
         className={`w-full min-h-screen flex flex-col items-center justify-start gap-12 ${inter.className}`}
       >
         <Header />
-        <div className="w-[95%] flex flex-col justify-center items-center text-center p-8 bg-white rounded-lg shadow-xl">
-          <h1 className="text-3xl font-bold text-[#30006b] mb-5">
+        <div className="w-[95%] flex flex-col justify-center items-center text-center py-8 px-5 bg-white rounded-lg shadow-xl">
+          <h1 className="text-3xl font-bold underline text-[#30006b] mb-5">
             Desafio Aniversário Netshoes!
           </h1>
           <p className="text-lg text-black mb-4">
-            Participe do nosso <b>emocionante desafio</b> sobre <b>esportes</b>{' '}
-            e ganhe acesso a <b>descontos exclusivos</b>!
+            <u>Participe</u> do nosso <b>emocionante desafio</b> sobre{' '}
+            <b>esportes</b> e ganhe acesso a <b>descontos exclusivos</b>!
           </p>
           <p className="text-lg text-black mb-4">
-            <u>Ao completar o desafio com sucesso,</u> você terá acesso a{' '}
+            <b>Ao completar o desafio com sucesso,</b> você terá acesso a{' '}
             <b>descontos exclusivos</b> em nossos <u>produtos</u> e ajudará a
-            arrecadar dinheiro para <b>doações</b>.
+            arrecadar{' '}
+            <u>
+              dinheiro para <b>doações</b>.
+            </u>
           </p>
           <p className="text-lg text-black mb-4">
             <b>50% do valor gerado</b> com as vendas será destinado a{' '}

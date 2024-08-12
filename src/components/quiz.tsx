@@ -81,9 +81,9 @@ const Quiz = () => {
   }
 
   return (
-    <div className="w-[95%] flex flex-col justify-center items-center text-center p-8 bg-white rounded-lg shadow-lg relative">
+    <div className="w-[95%] flex flex-col justify-center items-center text-center py-8 px-5 bg-white rounded-lg shadow-lg relative">
       <h1 className="text-3xl font-bold text-[#30006b] mb-6 underline">
-        Desafio Netshoes
+        Desafio Aniversário Netshoes!
       </h1>
       {!quizCompleted && (
         <>
