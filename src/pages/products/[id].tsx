@@ -235,14 +235,10 @@ export default function Sauvage() {
             <h1 className="text-[#282828] text-lg font-bold">
               De: <s>R$ {productData.price}</s>
             </h1>
-            <div className="flex items-center gap-4">
-              <h1 className="text-[#282828] text-3xl font-bold">
-                Por: R$ {productData.discount}
-              </h1>
-              <p className="text-[13px] text-white font-bold bg-[#ff0000] p-2 rounded-md">
-                -80%
-              </p>
-            </div>
+            <h1 className="text-[#282828] text-3xl font-bold">
+              Por: R$ {productData.discount}
+            </h1>
+
             <div
               onClick={changeModal}
               className="flex items-center gap-1 px-2 py-1 border rounded-md"
