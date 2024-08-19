@@ -551,31 +551,6 @@
       ]
     },
     {
-      "id": 26,
-      "stock": 13,
-      "productPage": "/products/26",
-      "sexo": "feminino",
-      "title": "Tênis Adidas Breaknet Feminino - Branco+Preto",
-      "tipo": "numero",
-      "opcoes": ["34", "35", "36", "37", "38", "39", "40", "41", "42"],
-      "rate": 183,
-      "price": "349,99",
-      "discount": "57,90",
-      "desc": "Para um melhor ajuste nos pés, recomendamos a compra de um tamanho menor do que o seu usual. Forma grande.* Aposte em estilo! Trazendo visual urbano super descolado, o Tênis Adidas Breaknet é perfeito para acompanhar as suas produções em qualquer ocasião. Desenvolvido em material resistente, tem solado emborrachado, palmilha macia, fechamento por cadarço ajustável e mini furos que garantem melhor respirabilidade. Esse tênis feminino exibe as clássicas listras Adidas na lateral e acabamento metálico. Dica: combine com looks casuais ou looks esportivos – calça legging, regata feminina ou sua camiseta estampada favorita. Você merece as melhores escolhas. Garanta já o seu!",
-      "href": "https://pay.seguro-netshoes.com/n1NLgwnO9NMGMxE",
-      "bannerImg" : "/prod15/prod1.webp",
-      "images": [
-        "/prod15/prod1.webp",
-        "/prod15/prod2.webp",
-        "/prod15/prod3.webp",
-        "/prod15/prod4.webp",
-        "/prod15/prod5.webp",
-        "/prod15/prod6.webp",
-        "/prod15/prod7.webp",
-        "/prod15/prod8.webp"
-      ]
-    },
-    {
       "id": 27,
       "stock": 7,
       "productPage": "/products/27",
